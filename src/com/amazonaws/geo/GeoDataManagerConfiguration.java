@@ -26,10 +26,10 @@ public class GeoDataManagerConfiguration {
 	public static final long MERGE_THRESHOLD = 2;
 
 	// Default values
-	private static final String DEFAULT_HASHKEY_ATTRIBUTE_NAME = "hashkey";
-	private static final String DEFAULT_RANGEKEY_ATTRIBUTE_NAME = "rangekey";
+	private static final String DEFAULT_HASHKEY_ATTRIBUTE_NAME = "hashKey";
+	private static final String DEFAULT_RANGEKEY_ATTRIBUTE_NAME = "rangeKey";
 	private static final String DEFAULT_GEOHASH_ATTRIBUTE_NAME = "geohash";
-	private static final String DEFAULT_GEOJSON_ATTRIBUTE_NAME = "geojson";
+	private static final String DEFAULT_GEOJSON_ATTRIBUTE_NAME = "geoJson";
 
 	private static final String DEFAULT_GEOHASH_INDEX_ATTRIBUTE_NAME = "geohash_index";
 
